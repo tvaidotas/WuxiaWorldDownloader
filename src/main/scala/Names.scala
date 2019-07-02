@@ -1,0 +1,1 @@
+case class Names(val title:String, val chapter:String)
